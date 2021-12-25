@@ -1,7 +1,8 @@
 body {
-  background-color: lightblue;
+  background-color: black;
 }
 
 * {
   font-family: "Courier New";
+  color: green;
 }
